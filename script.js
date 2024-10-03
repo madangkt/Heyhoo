@@ -4,7 +4,7 @@ const question = document.querySelector('.question');
 const gif = document.querySelector('.gif'); 
 
 yesBtn.addEventListener('click', () => {
-    question.innerHTML = 'aww >_< thanks, but i just test my code hehe'
+    question.innerHTML = 'aww >_< thanks, but i just test my code lol'
     gif.src = 'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczAwbzN4MHE2OG05djJseW1jbXJndm1ibDltY3k1a2lwcTVwYW0xdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3QBVkqUJRmDXNIpPE/giphy.gif';
 }); 
 
